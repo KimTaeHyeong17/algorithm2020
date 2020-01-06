@@ -3,6 +3,7 @@
 ## 스터디 계획
    - 알고리즘문제해결전략(2권)
    - 주2회 오프라인 스터디 진행
+   - 한번 할때 2챕터씩 읽어오기
    - [프로그래머스](https://programmers.co.kr/) 문제 풀이
    - 소스코드는 해당 주차 directory에 `{프로그래머스 문제이름}_{Github 계정명}.{확장자}` 형식으로 저장 후 [이 스터디 저장소](https://github.com/KimTaeHyeong17/algorithm2020.git) Fork한 개인 저장소에 Commit 후 Pull Request 생성
    
