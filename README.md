@@ -29,9 +29,8 @@
    [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
    [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
    [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)
-   []()
-   []
-   []
+   
+   [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
 
 ### [Week_2-2 2019.01.07]
   
