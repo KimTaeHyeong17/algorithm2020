@@ -24,13 +24,16 @@
 ### [Week_2-1 2019.01.06]
 1. 프로그래머스 스킬체크 1단계
 
-   [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
-   [정수제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)
-   [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
-   [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
-   [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)
+   - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
+   - [정수제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)
+   - [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
+   - [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
+   - [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)
    
-   [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
+   - [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
+   - [숙제](https://programmers.co.kr/learn/courses/30/lessons/42746)
 
 ### [Week_2-2 2019.01.07]
+
+7시
   
