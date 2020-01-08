@@ -31,9 +31,14 @@
    - [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)
    
    - [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
-   - [숙제](https://programmers.co.kr/learn/courses/30/lessons/42746)
+   - [숙제-K번째큰수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 
 ### [Week_2-2 2019.01.07]
+1. 선형자료구조
+2. 스택, 큐, 데크
 
-7시
-  
+   - [숙제-H Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
+   
+### [Week_3-1 2019.01.15]
+### [Week_3-2 2019.01.18]
+
