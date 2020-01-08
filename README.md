@@ -36,7 +36,7 @@
 ### [Week_2-2 2019.01.07]
 1. 선형자료구조
 2. 스택, 큐, 데크
-
+   - 문자열 챕터 읽어오기
    - [숙제-H Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
    
 ### [Week_3-1 2019.01.15]
