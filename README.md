@@ -40,5 +40,7 @@
    - [숙제-H Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
    
 ### [Week_3-1 2019.01.15]
+1. 리딩 22까지
 ### [Week_3-2 2019.01.18]
+1. 문제 [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
 
