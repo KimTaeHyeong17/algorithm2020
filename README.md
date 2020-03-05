@@ -17,6 +17,8 @@
 6. 다른 사람이 어려움을 겪고 있을 때는 용기를 줄 수 있는 따뜻한 말 한마디를 건넨다.
 7. 다른 사람의 코드나 문제 해결 방식을 비난하지 않는다.
       [출처](https://github.com/29rithm/algospot/blob/master/README.md)
+
+## 스터디 로그
 ### [Week_1 2019.01.04]
 1. 비트마스크(16) 부분합(17) 챕터 완독 및 복습,정리
 2. 프로그래머스 (JAVA, C++, PYTHON) 지원 문제중 LEVEL1 단계 5문제 풀이
@@ -34,13 +36,66 @@
    - [숙제-K번째큰수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 
 ### [Week_2-2 2019.01.07]
-1. 선형자료구조
-2. 스택, 큐, 데크
-   - 문자열 챕터 읽어오기
+1. 리딩
+   - 선형 자료 구조(5.18)
+   - 스택와 큐, 데크(5.19)
+   - 문자열(5.20) 챕터 읽어오기
+2. 문제
    - [숙제-H Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
    
 ### [Week_3-1 2019.01.15]
-1. 리딩 22까지
+1. 리딩
+   - 트리의 구현과 순회(6.21)
+   - 이진 검색 트리(6.22)
+
 ### [Week_3-2 2019.01.18]
-1. 문제 [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
+1. 문제 : 해시
+   - [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
+   - [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
+   - [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
+
+### [Week_4-1 2019.01.20]
+1. 리딩
+   - 우선순위 큐와 힙(6.23)
+
+### [Week_4-2 2019.01.22]
+1. 코딩 테스트
+
+### [Week_5-1 2019.01.29]
+1. 리딩
+   - 구간트리(6.24)
+
+### [Week_5-2 2019.02.01]
+1. 리딩 : 
+   - 상호 배타적 집합(6.25)
+   - 트라이(6.26)
+
+### [Week_6-1 2019.02.06]
+1. 분할 정복(7)
+
+### [Week_6-2 2019.02.08]
+1. 문제 : 완전탐색, 스택/큐
+   - [숫자 야구](https://programmers.co.kr/learn/courses/30/lessons/42841)
+   - [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
+   - [탑](https://programmers.co.kr/learn/courses/30/lessons/42588)
+
+### [Week_7-1 2019.02.18]
+1. 리딩
+   - 동적 계획법(8) 챕터
+
+### [Week_7-1 2019.02.18]
+1. 문제 : 스택/큐
+   - [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
+
+### [Week_8-2 2019.02.27]
+1. 문제 : Heap
+   - [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
+   - [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42629)
+   - [숙제 - 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
+
+### [Week_8-2 2019.02.29]
+1. 리딩
+   - 동적 계획법 테크닉(9) 챕터
+
+
 
