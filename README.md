@@ -134,3 +134,13 @@
 
 ### [Week_12-2 2020.03.28]
 1. 카카오 인턴 모의고사
+
+### [Week_13-1 2020.03.31]
+1. 문제 : DFS/BFS
+   - [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
+   - [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
+   - [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
+
+### [Week_13-2 2020.04.04]
+1. 문제 : 이분탐색
+   - [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
