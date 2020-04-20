@@ -97,7 +97,6 @@
 1. 리딩
    - 동적 계획법 테크닉(9) 챕터
 
-
 ### [Week_9-1 2020.03.05]
 1. 문제 : Greedy
    - [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
@@ -144,3 +143,21 @@
 ### [Week_13-2 2020.04.04]
 1. 문제 : 이분탐색
    - [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
+
+### [Week_14-1 2020.04.07]
+1. 문제 : 이분탐색, HEAP
+   - [예산](https://programmers.co.kr/learn/courses/30/lessons/43237)
+   - [디스크컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
+
+### [Week_14-2 2020.04.11]
+1. 문제 : Dynamic Programming
+   - [서울에서 경산까지](https://programmers.co.kr/learn/courses/30/lessons/42899)
+
+### [Week_15-1 2020.04.14]
+1. 문제 : HEAP
+   - [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
+
+### [Week_15-2 2020.04.17]
+1. 리딩
+   - 최적화 문제 결정 문제로 바꿔 풀기(12)
+   - 수치 해석(13)
