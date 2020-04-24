@@ -161,3 +161,13 @@
 1. 리딩
    - 최적화 문제 결정 문제로 바꿔 풀기(12)
    - 수치 해석(13)
+
+### [Week_16-1 2020.04.21]
+1. 리딩
+   - 정수론(14)
+
+### [Week_16-2 2020.04.24]
+1. 문제 : Greedy, 
+   - [저울](https://programmers.co.kr/learn/courses/30/lessons/42886)
+   - [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)
+   - [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)
