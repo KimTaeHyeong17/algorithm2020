@@ -167,7 +167,26 @@
    - 정수론(14)
 
 ### [Week_16-2 2020.04.24]
-1. 문제 : Greedy, 
+1. 문제 : Greedy, 완전탐색
    - [저울](https://programmers.co.kr/learn/courses/30/lessons/42886)
    - [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)
    - [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)
+
+### [Week_17-1 2020.05.8]
+1. 리딩
+   - 그래프의 표현과 정의(27)
+2. 문제
+   - [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
+   - [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
+
+### [Week_18-1 2020.05.15]
+1. 리딩
+   - 그래프의 깊이 우선 탐색(28)
+3. 문제 
+   - [자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685)
+
+### [Week_19-1 2020.05.22]
+1. 리딩
+   - 그래프의 너비 우선 탐색(29)
+3. 문제 
+   - [배달](https://programmers.co.kr/learn/courses/30/lessons/12978)
